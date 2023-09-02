@@ -1,18 +1,34 @@
 [
     {
-        "id": "1",
-        "name": "Super cool book"
+      "id": "1",
+      "name": "Understanding algorithms"
     },
     {
-        "id": "2",
-        "name": "Nice book"
+      "id": "2",
+      "name": "Cangaceiro Javascript"
     },
     {
-        "id": "3",
-        "name": "Super mega cool book"
+      "id": "3",
+      "name": "Basic C# Guide"
     },
     {
-        "id": "4",
-        "name": "A whole new book"
+      "id": "4",
+      "name": "Basic JavaScript Guide"
+    },
+    {
+      "id": "5",
+      "name": "Clean code"
+    },
+    {
+      "id": "6",
+      "name": "JavaScript for beginners"
+    },
+    {
+      "id": "7",
+      "name": "Getting to know python"
+    },
+    {
+      "id": "8",
+      "name": "Alura Immersion"
     }
-]
+  ]

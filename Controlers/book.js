@@ -72,7 +72,7 @@ function deleteBook(req, res) {
 
         if(id && Number(id)) {
             deleteBookById(id)
-            res.send("Book delete with sucess.")
+            res.send("Book deleted with sucess.")
         } else {
             res.status(422)
             res.send("Invalid ID.")
